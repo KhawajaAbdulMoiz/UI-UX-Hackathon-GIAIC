@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍴 Responsive Pixel-Perfect Restaurant Website  
 
-## Getting Started
+This project is my submission for the **UI/UX GIAIC Hackathon**, where I designed and developed a fully responsive and pixel-perfect restaurant website. The goal was to create a modern, user-friendly interface with seamless navigation and an aesthetically pleasing design.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features  
+- **Responsive Design**: Optimized for all screen sizes and devices.  
+- **Pixel-Perfect Layout**: Ensuring consistency and precision in design elements.  
+- **Modern UI/UX Principles**: Designed with accessibility and user experience in mind.  
+- **Interactive Elements**: Engaging animations and transitions for a polished look.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔍 Screenshots  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+-> Home Page
 
-To learn more about Next.js, take a look at the following resources:
+   ![Food-Tuck-Hero](https://github.com/user-attachments/assets/44d39c6c-995f-49ca-935b-f0d561e6be7c)
+   
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Technologies Used  
+- **Next.js**  
+- **HTML5**  
+- **CSS3**  
+- **Tailwind CSS**  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👥 Author  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Developed with ❤️ by **Khawaja Abdul Moiz**.  
+
+---
+
+## 📩 Contact  
+
+If you have any questions, feedback, or just want to connect, feel free to reach out:  
+
+- 📧 Email: contactabdulmoiz2005@gmail.com
+  
+- 🌐 Portfolio: [khawajaabdulmoiz.vercel.app](https://khawajaabdulmoiz.vercel.app)  
+
+- 💼 LinkedIn: [www.linkedin.com/in/khawaja-abdul-moiz/](https://www.linkedin.com/in/khawaja-abdul-moiz/)  
+
+
+## 🚀 Live Demo  
+
+Check out the live project here: [https://ui-ux-hackathon-project-delta.vercel.app/]  
+
+---
+
+
+
+
